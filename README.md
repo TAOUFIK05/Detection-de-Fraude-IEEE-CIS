@@ -1,7 +1,7 @@
 # Détection-de-Fraude-IEEE-CIS
 
 <p align="center">
-    <img src="https://github.com/TAOUFIK05/Traitement-automatique-du-langage-naturel-avec-les-Tweets-de-catastrophes/assets/48359677/51c684d2-addd-4ae3-9dc7-28acc948bb4b.jpg" width='900' height="400" />
+    <img src="https://github.com/TAOUFIK05/Detection-de-Fraude-IEEE-CIS/assets/48359677/e22f4c0b-34b4-4373-ac26-6e6fb017b8cb.jpg" width='900' height="400" />
 </p>
 
 Ce dépôt contient le code en réponse à la compétition "IEEE-CIS Fraud Detection". Cette compétition, organisée par la IEEE Computational Intelligence Society (IEEE-CIS), vise à détecter la fraude dans les transactions client.
