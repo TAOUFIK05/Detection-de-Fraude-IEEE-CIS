@@ -45,6 +45,5 @@ Les données sont divisées en deux fichiers : identity et transaction, qui sont
 Vous pouvez en savoir plus sur les données dans ce post de l'hôte de la compétition.
 Fichiers
 
-    - train_data.csv - l'ensemble d'entraînement
-    - test_data.csv - l'ensemble de test (vous devez prédire la valeur isFraud pour ces observations)
-
+    - train_transaction.csv , train_identity.csv : l'ensemble d'entraînement
+    - test_transaction , test_identity : l'ensemble de test (vous devez prédire la valeur isFraud pour ces observations)
