@@ -2,7 +2,7 @@
 
 Ce dépôt contient le code en réponse à la compétition "IEEE-CIS Fraud Detection". Cette compétition, organisée par la IEEE Computational Intelligence Society (IEEE-CIS), vise à détecter la fraude dans les transactions client.
 
-##### Le lien de la compétition "IEEE-CIS Fraud Detection" sur Kaggle https://www.kaggle.com/competitions/ieee-fraud-detection/overview.
+##### Le lien vers la compétition "IEEE-CIS Fraud Detection" sur Kaggle https://www.kaggle.com/competitions/ieee-fraud-detection/overview.
 
 Imaginez-vous à la caisse d'un supermarché avec une longue file d'attente derrière vous, lorsque le caissier annonce à voix haute que votre carte a été refusée. À ce moment-là, vous ne pensez probablement pas à la science des données qui a déterminé votre sort.
 
