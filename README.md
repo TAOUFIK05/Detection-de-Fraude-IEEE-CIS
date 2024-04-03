@@ -46,4 +46,4 @@ Vous pouvez en savoir plus sur les données dans ce post de l'hôte de la compé
 Fichiers
 
     - train_transaction.csv , train_identity.csv : l'ensemble d'entraînement
-    - test_transaction , test_identity : l'ensemble de test (vous devez prédire la valeur isFraud pour ces observations)
+    - test_transaction.csv , test_identity.csv : l'ensemble de test (vous devez prédire la valeur isFraud pour ces observations)
